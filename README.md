@@ -23,7 +23,11 @@
 
   you can easily install this tool with the installation script 
 
+  1.Download the .tar.gz from the releases tab
+
+  2. run these commands in your terminal
   ```bash
+cd ~/Downloads
 tar -xzvf wtfis-package.tar.gz
 cd wtfis-package
 ./install.sh
