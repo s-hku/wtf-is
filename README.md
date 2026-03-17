@@ -23,7 +23,7 @@
 
   you can easily install this tool with the installation script 
 
-  1.Download the .tar.gz from the releases tab
+  1. Download the .tar.gz from the releases tab
 
   2. run these commands in your terminal
   ```bash
