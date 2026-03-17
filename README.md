@@ -6,9 +6,10 @@
 
   # [EXAMPLE]
   
+  ```bash  
   wtfis ls
   ls -> lists files in your current directory.
-
+```
   # [INSTALLATION]
 
   you can easily install this tool with the installation script 
@@ -17,3 +18,4 @@
 tar -xzvf wtfis-package.tar.gz
 cd wtfis-package
 ./install.sh
+```
