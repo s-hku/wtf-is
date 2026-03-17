@@ -28,7 +28,7 @@
   2. run these commands in your terminal
   ```bash
 cd ~/Downloads
-tar -xzvf wtfis-package.tar.gz
+tar -xzvf wtfis-v1.0.tar.gz
 cd wtfis-package
 ./install.sh
 ```
