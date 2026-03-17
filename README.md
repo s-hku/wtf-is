@@ -7,7 +7,7 @@
 
   # [ABOUT THIS PROJECT]
 
-  Wtfis is my very first coding project! 🎉  
+  Wtf-is is my very first coding project! 🎉  
 
   I made it to learn Rust, practice working with JSON, and have some fun creating a handy terminal tool.  
   It’s a small project, but it taught me a lot about programming, command-line tools, and distributing software to others.
