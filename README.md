@@ -1,15 +1,15 @@
 # wtf-is
 
-  #Wtf even is this?
+  # Wtf even is this?
   wtf is a simple slt tool written in rust that tells you what commands (and other stuff) do.
   meant for new Linux users the tool gives you easy to understand responses
 
-  [EXAMPLE]
+  # [EXAMPLE]
   
   wtfis ls
   ls -> lists files in your current directory.
 
-  [INSTALLATION]
+  # [INSTALLATION]
 
   you can easily install this tool with the installation script 
 
