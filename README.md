@@ -5,7 +5,7 @@
   wtf-is that tells you what commands (and other stuff) do.
   meant for new Linux users the tool gives you easy to understand responses
 
-  # [ABOUT THIS PROJECT]
+  # About this project
 
   Wtf-is is my very first coding project! 🎉  
 
@@ -13,13 +13,13 @@
   It’s a small project, but it taught me a lot about programming, command-line tools, and distributing software to others.
 
 
-  # [EXAMPLE]
+  # Example
   
   ```bash  
   wtfis ls
   ls -> lists files in your current directory.
 ```
-  # [INSTALLATION]
+  # Installation
 
   you can easily install this tool with the installation script 
 
@@ -29,7 +29,7 @@ cd wtfis-package
 ./install.sh
 ```
 
- # [CONTRIBUTING]
+ # Contributing
 
  Want to add more commands?   
  Edit the `commands.json` file and submit a pull request!
