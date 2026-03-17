@@ -1,7 +1,7 @@
 # wtf-is
 
   # Wtf even is this?
-  wtf is a simple cli tool inspired by the whatis command and written in rust 
+  wtf is a simple cli tool inspired by the whatis command and written in rust. 
   wtf-is that tells you what commands (and other stuff) do.
   meant for new Linux users the tool gives you easy to understand responses
 
